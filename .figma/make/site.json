@@ -1,0 +1,10 @@
+{
+  "description": "Displays upcoming and past trips with swipe-enabled horizontal scrolling for easy navigation, enhancing travel planning and review experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
